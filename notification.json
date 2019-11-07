@@ -1,0 +1,26 @@
+[  
+    {
+        "Notification_Name" : "App Update",
+        "Notification_Details" : "Your app is updated. Thanks for staying with  with us. Let us know if you face any problem" ,
+        "Read" : "1",
+        "Time" : "Jan 26"
+      },
+      {
+        "Notification_Name" :"Welcome" ,
+        "Notification_Details" : "Welcome to Truck Lagbe" ,
+        "Read" : "1",
+        "Time" : "Jan 26"
+      },
+      {
+        "Notification_Name" : "Welcome1",
+        "Notification_Details" : "Welcome to Truck Lagbe Welcome to Truck Lagbe" ,
+        "Read" : "0",
+        "Time" : "Jan 25"
+      }, 
+      {
+        "Notification_Name" : "App Update",
+        "Notification_Details" : "Your app is updated. Thanks for staying with  with us. Let us know if you face any problem" ,
+        "Read" : "0",
+        "Time" : "Jan 24"
+      }
+    ]
